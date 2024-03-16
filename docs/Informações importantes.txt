@@ -1,0 +1,5 @@
+O sistema foi ativado no Ambiente Virtual dentro da versão do Python 3.9.18 anaconda!
+Só está funcionando desta forma!!!
+
+1º Passo: Ative o Ambiente virtual = .\AV\Scripts\Activate
+2º Passo: Coloque o app para rodar = streamlit run app.py
